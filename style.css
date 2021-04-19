@@ -1,0 +1,63 @@
+#welcome {
+    color: aqua;
+    background-color: blueviolet;
+    position: absolute;
+    height: 800px;
+    color: #FFFFFF;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.83;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 8;
+}
+
+.inwelcome {
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.links {
+    float: left;
+    color: #220af7;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: cursive;
+    font-size: 20px;
+
+}
+
+#myCarousel {
+    background-color: red
+}
+
+;
+
+#myCarousel img {
+    height: 150px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+.img2 {
+    height: 200px;
+    width: 250px;
+}
